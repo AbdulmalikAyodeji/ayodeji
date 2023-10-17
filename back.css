@@ -1,0 +1,26 @@
+body{
+    background-image: url("img/bionic_commando_3-1920x1200.jpg ");
+    height: 20px;
+    text-align: center;
+    border-radius: 50px;
+     
+}
+form{
+    border: 40px groove blue;
+    border-style: double;
+    
+    
+         
+}
+
+
+input{
+    border-radius: 20px;
+
+}
+button{
+    border-radius: 20px;
+    width: 100px;
+    border-style: dotted;
+}
+

@@ -1,0 +1,12 @@
+table{
+    border: 50px inset red;
+     border-collapse: non-colapse;
+
+       
+}
+td{
+    border: 1px solid red;
+}
+tr{
+    border: 10px gold;
+}

@@ -1,0 +1,67 @@
+ul{
+    list-style-type:disc;
+}
+ol{
+    list-style-type:circle;
+}
+table{
+    border: 20px inset red;
+    border-collapse: no-colapse;
+     border-spacing: 20px;
+     
+}
+tr{
+    border: 10px  gold;
+}
+td{
+    border:1px solid black ;
+    padding: 10px;
+    text-align: center;
+    background-color: gold;
+    border-radius:  ;
+    border-style: solid;
+    border: 6px groove red;
+   box-shadow: inset 10px 10px 10px  black; 
+}
+form{
+    background-color: ;
+}
+
+input{
+    height: 30px;
+    width: 200px;
+    padding: 10px 20px 10px 10px;
+    outline: none;
+    font-size: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    
+
+    
+    
+}
+
+input:focus{
+    border: 2px solid blue;
+    background-color: goldenrod;
+}
+
+input[type="checkbox"]{
+    height: 30px;
+    accent-color: red;
+}
+input[type="radio"]{
+    accent-color:gold ;
+   
+    
+}
+img{
+    border: dashed;
+    height: 500px;
+    border-style: solid;
+    border: 50px solid red;
+
+
+}
+

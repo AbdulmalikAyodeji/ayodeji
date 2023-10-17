@@ -1,0 +1,17 @@
+table{
+
+  border-top: 6px solid gold;
+  border-right: 6px solid greenyellow;
+  border-bottom: 7px solid #008000;
+  border-left: 7px solid gold;
+
+
+
+    
+
+
+}
+
+input{
+      box-shadow: 0px 50px 5px red;
+}
