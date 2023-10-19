@@ -3,26 +3,8 @@ ul{
 }
 ol{
     list-style-type:circle;
-}
-table{
-    border: 20px inset red;
-    border-collapse: no-colapse;
-     border-spacing: 20px;
-     
-}
-tr{
-    border: 10px  gold;
-}
-td{
-    border:1px solid black ;
-    padding: 10px;
-    text-align: center;
-    background-color: gold;
-    border-radius:  ;
-    border-style: solid;
-    border: 6px groove red;
-   box-shadow: inset 10px 10px 10px  black; 
-}
+} 
+    bor
 form{
     background-color: ;
 }
@@ -55,13 +37,5 @@ input[type="radio"]{
     accent-color:gold ;
    
     
-}
-img{
-    border: dashed;
-    height: 500px;
-    border-style: solid;
-    border: 50px solid red;
-
-
 }
 
